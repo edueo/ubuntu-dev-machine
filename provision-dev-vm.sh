@@ -22,7 +22,6 @@ sudo add-apt-repository \
    stable"
 sudo apt-get -yq update
 sudo apt-get -yq install docker-ce=5:19.03.12~3-0~ubuntu-xenial
-docker --version
 
 #
 # User setup for docker.
